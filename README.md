@@ -1,8 +1,13 @@
-<h1 align="center"	`#0969DA`>Hello World, nice to meet you, I'm Pedro J. O. da Roza</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+<h1 align="center"	";">Hello World, I'm Pedro J. O. da Roza</h1>
+<div>
 
-<h3 align="center">I'm currently studying at IFC, campus Araquari </h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Hello,+It's+a+big+pleasure+to+have+you+here!;Have+you+drink+water+today?;This+thing+is+so+nice,+isn't?)](https://git.io/typing-svg)
+</div>
+ <h3 align="center">I'm currently studying at IFC, campus Araquari </h3>
 <h4>About me: </h4>
-<p>I am 16 years old, i borned on Joinville - SC, I have advanced english, but still study at <a href = "https://www.wizard.com.br/">Wizard</a>, to improve myself. </p>
+<p>I am 16 years old, i borned on Joinville - SC, I have advanced english, but still study at <a href = "https://www.wizard.com.br/">Wizard</a>, to improve myself.</p>
 
 - 📫 How to reach me **pedrojs.ol.daroza@gmail.com**
 
