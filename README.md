@@ -1,6 +1,6 @@
-<h1 align="center">Hello World, nice to meet you, I'm Pedro J. O. da Roza</h1>
+<h1 align="center"	`#0969DA`>Hello World, nice to meet you, I'm Pedro J. O. da Roza</h1>
+
 <h3 align="center">I'm currently studying at IFC, campus Araquari </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrojoseroza&label=Profile%20views&color=0e75b6&style=flat" alt="pedrojoseroza" /> </p>
 <h4>About me: </h4>
 <p>I am 16 years old, i borned on Joinville - SC, I have advanced english, but still study at <a href = "https://www.wizard.com.br/">Wizard</a>, to improve myself. </p>
 
