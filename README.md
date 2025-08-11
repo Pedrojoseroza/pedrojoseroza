@@ -3,7 +3,7 @@
 <div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Hello,+It's+a+big+pleasure+to+have+you+here!;Have+you+drink+water+today?;This+thing+is+so+nice,+isn't?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Hello,+It's+a+big+pleasure+to+have+you+here!;Have+you+drink+water+today?;This+thing+is+so+nice,+isn't?;How+can+I+help+you+today?)](https://git.io/typing-svg)
 </div>
  <h3 align="center">I'm currently studying at IFC, campus Araquari </h3>
 <h4>About me: </h4>
