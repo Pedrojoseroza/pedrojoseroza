@@ -7,7 +7,7 @@
 </div>
  <h3 align="center">I'm currently studying at IFC, campus Araquari </h3>
 <h4>About me: </h4>
-<p>I am 16 years old, i borned on Joinville - SC, I have advanced english, but still study at <a href = "https://www.wizard.com.br/">Wizard</a>, to improve myself.</p>
+<p>I am 16 years old, i borned on Joinville - SC, I have intermediate english and still study at <a href = "https://www.wizard.com.br/">Wizard</a>, to improve myself.</p>
 
 - 📫 How to reach me **pedrojs.ol.daroza@gmail.com**
 
