@@ -5,6 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Hello,+It's+a+big+pleasure+to+have+you+here!;Have+you+drink+water+today?;This+thing+is+so+nice,+isn't?;How+can+I+help+you+today?)](https://git.io/typing-svg)
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrojoseroza&theme=chartreuse-dark&line=00FF00&point=80EEFF
+)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  <h3 align="center">I'm currently studying at IFC, campus Araquari </h3>
 <h4>About me: </h4>
 <p>I am 16 years old, i borned on Joinville - SC, I have intermediate english and still study at <a href = "https://www.wizard.com.br/">Wizard</a>, to improve myself.</p>
