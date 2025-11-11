@@ -3,7 +3,7 @@
 <div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54b542b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+It's+a+big+pleasure+to+have+you+here!;Have+you+drink+water+today?;This+thing+is+so+nice,+isn't?;How+can+I+help+you+today?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54b542&size=35&center=true&vCenter=true&width=1000&lines=Hello,+It's+a+big+pleasure+to+have+you+here!;Have+you+drink+water+today?;This+thing+is+so+nice,+isn't?;How+can+I+help+you+today?)](https://git.io/typing-svg)
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrojoseroza&theme=chartreuse-dark&line=00FF00&point=80EEFF
